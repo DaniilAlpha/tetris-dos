@@ -1,0 +1,6 @@
+.cache/
+build/
+include/borland/
+MAIN.EXE
+*.OBJ
+
